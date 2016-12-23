@@ -8,3 +8,6 @@ Awesome Low-end Services
 ## Domains
 * [NameCheap](//namecheap.com)
 
+## Hardware
+* [NanoPi Neo](//www.friendlyarm.com/index.php?route=product/product&path=69&product_id=132)
+
