@@ -10,4 +10,7 @@ Awesome Low-end Services
 
 ## Hardware
 * [NanoPi Neo](http://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=132)
+* [OrangePi Zero](http://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=132)
+* [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/)
+
 
