@@ -4,6 +4,7 @@ Awesome Low-end Services
 ## VPS/BareMetal
 * [Scaleway](//www.scaleway.com)
 * [ArubaCloud](//arubacloud.com)
+* [Worldstream](//www.worldstream.nl)
 
 ## Domains
 * [NameCheap](//namecheap.com)
